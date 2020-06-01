@@ -3,13 +3,13 @@ Agenda QuarkEdu - Politica de Privacidade
 
 Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar a sua visita no nosso app o mais produtiva e agradável possível.
 
-A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso site é importante para o ComunicaEdu.
+A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso site é importante para o Agenda QuarkEdu.
 
-Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem o ComunicaEdu serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.° 67/98).
+Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem o Agenda QuarkEdu serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.° 67/98).
 
 A informação pessoal recolhida pode incluir o seu nome, e-mail, número de telefone e/ou telemóvel, morada, data de nascimento e/ou outros.
 
-O uso do ComunicaEdu pressupõe a aceitação deste Acordo de privacidade. A equipa do ComunicaEdu reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.
+O uso do Agenda QuarkEdu pressupõe a aceitação deste Acordo de privacidade. A equipe do Agenda QuarkEdu reserva-se ao direito de alterar este acordo sem aviso prévio. Deste modo, recomendamos que consulte a nossa política de privacidade com regularidade de forma a estar sempre atualizado.
 
 Os anúncios
 ==================
@@ -17,6 +17,6 @@ Tal como outros websites, coletamos e utilizamos informação contida nos anúnc
 
 Ligações a Sites de terceiros
 =====================
-O ComunicaEdu possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a politica de privacidade do mesmo.
+O Agenda QuarkEdu possui ligações para outros sites, os quais, a nosso ver, podem conter informações / ferramentas úteis para os nossos visitantes. A nossa política de privacidade não é aplicada a sites de terceiros, pelo que, caso visite outro site a partir do nosso deverá ler a politica de privacidade do mesmo.
 
 Não nos responsabilizamos pela política de privacidade ou conteúdo presente nesses mesmos sites.
